@@ -1,5 +1,29 @@
 # JS2022-W5 - Gulp
 
+## Reference
+
+1. CSS 現成模版 - CodePen - hexschool : https://codepen.io/hexschool/pen/BaQveVm?editors=1010
+
+2. 流程圖建議 : https://whimsical.com/WZEyuJGJUCLmw9rCEHhPp9
+
+3. 圖片下載連結 : https://github.com/hexschool/2022-web-layout-training/tree/main/js_week5
+
+4. XD 設計稿 : https://xd.adobe.com/view/868fdb37-d3f4-48bd-bdd9-8b2ae7963c9b-d3dc/
+
+5. CodePen - tanxin : https://codepen.io/kancheng/pen/NWzdKge
+
+## Ref. Code :
+
+
+
+## Info.
+
+1. ID : kancheng#3915
+
+
+
+# Gulp
+
 > 使用該專案 Gulp 時，就可以不用使用其他編譯工具編譯 SCSS 或是 JavaScript。
 
 ## 指令列表
