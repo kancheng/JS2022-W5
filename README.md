@@ -12,8 +12,14 @@
 
 5. CodePen - tanxin : https://codepen.io/kancheng/pen/NWzdKge
 
+6. forEach - 範例功能 : https://codepen.io/hexschool/pen/oNYPPPx
+
+- https://codepen.io/kancheng/pen/ZERLamJ
+
+
 ## Ref. Code :
 
+1. Jo Yun #8899 : https://codepen.io/Jo_Yun/pen/bGKwgee
 
 
 ## Info.
