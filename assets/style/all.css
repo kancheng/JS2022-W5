@@ -245,7 +245,8 @@ body {
   border: 1px solid #DEE2E6;
   border-radius: 5px;
   margin-bottom: 38px;
-  margin-right: 2%; }
+  margin-right: 2%;
+  list-style-type: none; }
 
 @media (max-width: 768px) {
   .ticketCard {
